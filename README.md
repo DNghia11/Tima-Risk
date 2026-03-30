@@ -31,6 +31,8 @@
 - Tỷ lệ quá hạn
 - Tổng khách khách hàng quay lại
 ## 📸 Dashboard Preview
+<img width="1372" height="682" alt="Tima_Risk" src="https://github.com/user-attachments/assets/e240705d-882a-4079-a6f2-a04aab28b926" />
+
 ## 🚀 Đề xuất
 ### 🎯 Kiểm soát rủi ro
 - Siết điều kiện duyệt vay tại khu vực rủi ro cao
@@ -48,4 +50,4 @@
 - Khách hàng rủi ro cao → lãi suất cao hơn
 - Khách hàng tốt → ưu đãi tốt hơn
 ## 📂 Link Dashboard
-- <a href="https://github.com/ritikbh193/Data-Analysis-Dashboard/blob/main/Vrinda%20Data%20Analysis2.xlsx">Dashboard</a>
+- <a href="https://github.com/DNghia11/Tima-Risk/blob/main/TimaFinal.pbix">Dashboard</a>
